@@ -240,3 +240,7 @@ const parseColor = (function() {
 		return o;
 	};
 }());
+
+if (typeof module !== 'undefined') {
+  module.exports = { parseColor };
+}

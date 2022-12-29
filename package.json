@@ -1,0 +1,16 @@
+{
+  "name": "@basementuniverse/parsecolor",
+  "version": "1.0.0",
+  "description": "Parse various CSS color formats and turn them into RGBA value",
+  "main": "parsecolor.js",
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basementuniverse/parsecolor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/basementuniverse/parsecolor/issues"
+  },
+  "homepage": "https://github.com/basementuniverse/parsecolor#readme"
+}

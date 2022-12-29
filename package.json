@@ -1,6 +1,6 @@
 {
   "name": "@basementuniverse/parsecolor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse various CSS color formats and turn them into RGBA value",
   "main": "parsecolor.js",
   "types": "parsecolor.d.ts",
